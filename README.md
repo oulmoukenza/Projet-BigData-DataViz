@@ -7,8 +7,7 @@ Equipe :
   . Mohamed Redha REMILI
 
 Fichiers :
-  . Data : 4 fichiers CSV contenants nos données historiques issues de differentes sources :
-           
+  . Data : 4 fichiers CSV contenants nos données historiques issues de differentes sources :           
            . csv_court_gaz_histo.csv : contient les données du court du gaz des 6 derniers mois
            . csv_court_petrol_histo.csv : contient les données du court du pétrole des 6 derniers mois
            . df_history_co2.csv : contient les données des émissions de co2 des 6 derniers mois
