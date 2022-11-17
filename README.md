@@ -34,7 +34,11 @@
     Fichier Power Point dans lequel nous présentons nos projets
 
 ## Sources :
-   #### . Open Data Réseaux Enérgie : 
+   #### . Open Data Réseaux Enérgies : 
         https://odre.opendatasoft.com/explore/dataset/eco2mix-national-tr/export/ flg=fr&disjunctive.nature&sort=eolien_offshore&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJiYXIiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJjb25zb21tYXRpb24iLCJjb2xvciI6InJhbmdlLUFjY2VudCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlfV0sInhBeGlzIjoiZGF0ZV9oZXVyZSIsIm1heHBvaW50cyI6MjAwLCJ0aW1lc2NhbGUiOiJtaW51dGUiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJlY28ybWl4LW5hdGlvbmFsLXRyIiwib3B0aW9ucyI6eyJmbGciOiJmciIsImRpc2p1bmN0aXZlLm5hdHVyZSI6dHJ1ZSwic29ydCI6ImVvbGllbl9vZmZzaG9yZSJ9fSwic2VyaWVzQnJlYWtkb3duIjoiY29uc29tbWF0aW9uIiwic3RhY2tlZCI6InBlcmNlbnQifV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9
-            
         
+   #### . Yahoo Finance : 
+       https://finance.yahoo.com/?guccounter=1&guce_referrer=aHR0cHM6Ly90ZWFtcy5taWNyb3NvZnQuY29tLw&guce_referrer_sig=AQAAAInS0PcuTJ0UnLVN4VkYBzLPyBlB8_lSVVAcRD_JLmJ5c_reVCLkg8Gf55jjG1-xLNGY44NpcDWajj9cgUNbPFioOODUWKHEU_M-SAWtYWez8W5wRTu3dRO5Nju_JA5rpVbQAdaJlugHm_vJbRtksxBucXJc3g_yEo4vD34GS4zP      
+            
+   #### . Electricity Maps : 
+       https://www.electricitymaps.com/
