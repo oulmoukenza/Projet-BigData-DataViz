@@ -7,7 +7,7 @@
         . Mohamed Redha REMILI
 
 ## Fichiers :
-  #### . Data : 4 fichiers CSV contenants nos données historiques issues de differentes sources :
+   #### . Data : 4 fichiers CSV contenants nos données historiques issues de differentes sources :
   
            . csv_court_gaz_histo.csv : contient les données du court du gaz des 6 derniers mois
            
@@ -33,4 +33,8 @@
    #### . Présentation : 
     Fichier Power Point dans lequel nous présentons nos projets
 
-
+## Sources :
+   #### . Open Data Réseaux Enérgie : 
+        https://odre.opendatasoft.com/explore/dataset/eco2mix-national-tr/export/ flg=fr&disjunctive.nature&sort=eolien_offshore&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJiYXIiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJjb25zb21tYXRpb24iLCJjb2xvciI6InJhbmdlLUFjY2VudCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlfV0sInhBeGlzIjoiZGF0ZV9oZXVyZSIsIm1heHBvaW50cyI6MjAwLCJ0aW1lc2NhbGUiOiJtaW51dGUiLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJlY28ybWl4LW5hdGlvbmFsLXRyIiwib3B0aW9ucyI6eyJmbGciOiJmciIsImRpc2p1bmN0aXZlLm5hdHVyZSI6dHJ1ZSwic29ydCI6ImVvbGllbl9vZmZzaG9yZSJ9fSwic2VyaWVzQnJlYWtkb3duIjoiY29uc29tbWF0aW9uIiwic3RhY2tlZCI6InBlcmNlbnQifV0sInRpbWVzY2FsZSI6IiIsImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9
+            
+        
