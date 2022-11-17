@@ -30,6 +30,7 @@
    #### . Consumer : 
     Fichier python qui sert à récuperer les données envoyées par le producer et les traitenent avec spark, avant de les afficher
    
-
+   #### . Présentation : 
+    Fichier Power Point dans lequel nous présentons nos projets
 
 
