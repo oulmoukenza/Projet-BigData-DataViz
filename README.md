@@ -1,7 +1,7 @@
 # Projet-BigData-DataViz
 
 ## Equipe :
-        .Nabil HATRI
+        . Nabil HATRI
         . Rayan KHALFOUN 
         . Kenza OULMOU
         . Mohamed Redha REMILI
@@ -16,7 +16,7 @@
            . df_history_co2.csv : contient les données des émissions de co2 des 6 derniers mois
            
            . df_history_mix.csv : contient les données de la consommation éléctrique et du mix énergétique des 6 derniers mois :
-            Consommation éléctrique (MW) /	Fioul (MW) / Charbon (MW) /	Gaz (MW) /	Nucléaire (MW) /	Eolien (MW) /	Solaire (MW) /	Hydraulique (MW) /	Pompage (MW) /	Bioénergies (MW)
+            Consommation éléctrique (MW) /	Fioul (MW) / Charbon (MW) /	Gaz (MW) /	Nucléaire (MW) /	Eolien (MW) /	Solaire (MW) /	Hydraulique                 (MW) / Pompage (MW) / Bioénergies (MW)
    
    #### . Rapport Power BI : 
     Rapport qui contient toutes nos analyses 
