@@ -1,7 +1,7 @@
 # Projet-BigData-DataViz
 
-Equipe : 
-  . Nabil HATRI
+Equipe :
+  .Nabil HATRI
   . Rayan KHALFOUN 
   . Kenza OULMOU
   . Mohamed Redha REMILI
