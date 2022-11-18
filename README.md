@@ -1,11 +1,5 @@
 # Projet-BigData-DataViz
 
-## Equipe :
-        . Nabil HATRI
-        . Rayan KHALFOUN 
-        . Kenza OULMOU
-        . Mohamed Redha REMILI
-
 ## Fichiers :
    #### . Data : 4 fichiers CSV contenants nos données historiques issues de differentes sources :
   
